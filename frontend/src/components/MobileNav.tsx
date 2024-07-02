@@ -10,7 +10,7 @@ export default function MobileNav() {
         <SheetTrigger>
             <Menu className='text-orange-500'></Menu>
         </SheetTrigger>
-        <SheetContent>
+        <SheetContent className='space-y-3'>
            <SheetTitle>
             <span>Welcome to Meran .om</span></SheetTitle> 
             <Separator/>
